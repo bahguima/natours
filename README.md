@@ -1,2 +1,2 @@
 # natours
-Flexbox, Css Grid, design responsivo e muito mais.
+Estudo com SASS, BEM e padrões de responsividade
